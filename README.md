@@ -7,6 +7,7 @@ occasionally need to open split view or some of the Atom docks.
 
 The plugin does nothing when Atom window is in fullscreen or maximized state.
 
-TODO keybinging for closing all additional docks and panes
-TODO screenshot
-TODO specs
+TODOs:
+* Keybinging for closing all additional docks and panes
+* Screenshot
+* Specs
