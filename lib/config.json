@@ -1,0 +1,23 @@
+{
+  "resizeWidth": {
+    "title": "Resize width",
+    "description": "Resize Atom window width automatically",
+    "type": "boolean",
+    "default": true,
+    "order": 0
+  },
+  "resizeHeight": {
+    "title": "Resize height",
+    "description": "Resize Atom window height automatically",
+    "type": "boolean",
+    "default": true,
+    "order": 1
+  },
+  "textEditorWidth": {
+    "title": "Text editor width",
+    "description": "Set preferred text editor width",
+    "type": "integer",
+    "default": 676,
+    "order": 2
+  }
+}
