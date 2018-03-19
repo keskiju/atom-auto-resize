@@ -1,7 +1,7 @@
 {
   "name": "atom-auto-resize",
   "main": "./lib/atom-auto-resize",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Keep Atom window minimal by resizing it automatically when panes/docks are opened or closed.",
   "keywords": [
     "atom",
