@@ -12,13 +12,13 @@ Tips:
 * Configure your preferred text editor pane width in package settings.
 * Avoid keeping [Tree View](https://atom.io/packages/tree-view) open all the
 time by opening files using
-[Fuzzy Finder](https://atom.io/packages/fuzzy-finder) or using extra packages
-like [Advanced Open File](https://atom.io/packages/advanced-open-file).
+[Fuzzy Finder](https://atom.io/packages/fuzzy-finder), or by using extra
+packages like [Advanced Open File](https://atom.io/packages/advanced-open-file).
 * If you are working on a laptop, you might want to adjust your font size
-and remove all extra space from the sides of your text editor pane by
+and remove all unnecessary space from the sides of your text editor pane by
 modifying your stylesheet.
 
 TODOs:
 * Keybinding for closing all additional docks and panes
-* Screenshot (use issue)
+* Screenshot
 * Specs
