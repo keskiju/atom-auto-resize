@@ -17,16 +17,30 @@
     "default": 676,
     "order": 2
   },
-  "windowMaxWidth": {
-    "title": "Atom window max width (optional)",
+  "screenLeftRightMargin": {
+    "title": "TODO: Screen left/right margin",
+    "description": "With this setting you can leave some empty space to either side of the screen (e.g. for taskbar or some application).",
     "type": "integer",
     "default": 0,
     "order": 3
   },
-  "windowMaxHeight": {
-    "title": "Atom window max height (optional)",
+  "screenTopBottomMargin": {
+    "title": "TODO: Screen bottom margin",
+    "description": "With this setting you can leave some empty space to top or bottom of the screen (e.g. for taskbar or some application).",
     "type": "integer",
     "default": 0,
     "order": 4
+  },
+  "windowMaxWidth": {
+    "title": "Atom window max width",
+    "type": "integer",
+    "default": 0,
+    "order": 5
+  },
+  "windowMaxHeight": {
+    "title": "Atom window max height",
+    "type": "integer",
+    "default": 0,
+    "order": 6
   }
 }

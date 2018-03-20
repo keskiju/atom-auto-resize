@@ -10,15 +10,17 @@ The plugin does nothing when Atom window is in fullscreen or maximized state.
 Tips:
 
 * Configure your preferred text editor pane width in package settings.
+* Use this package in conjunction with the
+[Atom Auto Docks](https://atom.io/packages/atom-auto-docks) package.
 * Avoid keeping [Tree View](https://atom.io/packages/tree-view) open all the
-time by opening files using
+time by opening files using the
 [Fuzzy Finder](https://atom.io/packages/fuzzy-finder), or by using extra
-packages like [Advanced Open File](https://atom.io/packages/advanced-open-file).
+packages like the [Advanced Open File](https://atom.io/packages/advanced-open-file).
 * If you are working on a laptop, you might want to adjust your font size
-and remove all unnecessary space from the sides of your text editor pane by
-modifying your stylesheet.
+and remove all unnecessary empty space from the sides of your text editor pane
+by modifying your stylesheet.
 
 TODOs:
-* Keybinding for closing all additional docks and panes
+* Setting for top/right/bottom/left screen margins
 * Screenshot
 * Specs
