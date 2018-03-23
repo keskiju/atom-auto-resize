@@ -6,7 +6,7 @@ application side-by-side (e.g. a browser), and you only occasionally need to
 open some of the Atom docks or another text editor pane. The plugin does
 nothing if Atom window is in fullscreen or maximized state.
 
-![demo](https://user-images.githubusercontent.com/6596332/37799404-468b5f16-2e28-11e8-9ee4-a1ddd5c275c4.gif)
+![demo](https://user-images.githubusercontent.com/6596332/37856576-e5d84c16-2efd-11e8-8a7c-c2cc579548ba.gif)
 
 Tips:
 
